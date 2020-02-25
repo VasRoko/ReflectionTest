@@ -1,0 +1,11 @@
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.exe
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.deps.json
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.runtimeconfig.json
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.runtimeconfig.dev.json
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.dll
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.pdb
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.csprojAssemblyReference.cache
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.AssemblyInfoInputs.cache
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.AssemblyInfo.cs
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.dll
+C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.pdb
