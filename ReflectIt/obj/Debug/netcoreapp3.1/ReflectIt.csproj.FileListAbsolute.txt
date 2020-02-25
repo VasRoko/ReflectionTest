@@ -9,3 +9,16 @@ C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\
 C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.AssemblyInfo.cs
 C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.dll
 C:\Projects_Personal\ReflectionTest\ReflectIt\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.pdb
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.exe
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.deps.json
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.runtimeconfig.json
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.runtimeconfig.dev.json
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.dll
+D:\projects\projects_personal\ReflectionTest\ReflectIt\bin\Debug\netcoreapp3.1\ReflectIt.pdb
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.csprojAssemblyReference.cache
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.csproj.CoreCompileInputs.cache
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.AssemblyInfoInputs.cache
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.AssemblyInfo.cs
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.dll
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.pdb
+D:\projects\projects_personal\ReflectionTest\ReflectIt\obj\Debug\netcoreapp3.1\ReflectIt.genruntimeconfig.cache
