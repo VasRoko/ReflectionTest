@@ -24,7 +24,10 @@ namespace ReflectIt
     { 
         
     }
+    public class Customer
+    {
 
+    }
     public class InvoiceService
     {
         public InvoiceService(IRepository<Employee> repository, ILogger logger)

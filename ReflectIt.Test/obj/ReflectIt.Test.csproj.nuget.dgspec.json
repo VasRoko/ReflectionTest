@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt.Test\\ReflectIt.Test.csproj": {}
+    "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt.Test\\ReflectIt.Test.csproj": {}
   },
   "projects": {
-    "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt.Test\\ReflectIt.Test.csproj": {
+    "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt.Test\\ReflectIt.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt.Test\\ReflectIt.Test.csproj",
+        "projectUniqueName": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt.Test\\ReflectIt.Test.csproj",
         "projectName": "ReflectIt.Test",
-        "projectPath": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt.Test\\ReflectIt.Test.csproj",
-        "packagesPath": "C:\\Users\\vasro\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt.Test\\obj\\",
+        "projectPath": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt.Test\\ReflectIt.Test.csproj",
+        "packagesPath": "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vasro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vasyl.Rokochuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\ReflectIt.csproj": {
-                "projectPath": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\ReflectIt.csproj"
+              "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\ReflectIt.csproj": {
+                "projectPath": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\ReflectIt.csproj"
               }
             }
           }
@@ -74,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\ReflectIt.csproj": {
+    "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\ReflectIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\ReflectIt.csproj",
+        "projectUniqueName": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\ReflectIt.csproj",
         "projectName": "ReflectIt",
-        "projectPath": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\ReflectIt.csproj",
-        "packagesPath": "C:\\Users\\vasro\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\projects_personal\\ReflectionTest\\ReflectIt\\obj\\",
+        "projectPath": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\ReflectIt.csproj",
+        "packagesPath": "C:\\Users\\Vasyl.Rokochuk\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects_Personal\\ReflectionTest\\ReflectIt\\ReflectIt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\vasro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vasyl.Rokochuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200-preview-014883\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
